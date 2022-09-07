@@ -1,4 +1,4 @@
-# Magic Memory
+# Cooking Mania
 
 ## Table of contents
 
